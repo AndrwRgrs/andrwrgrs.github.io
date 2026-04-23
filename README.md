@@ -1,3 +1,4 @@
+# Andrew M. Rogers
 ### **Mechatronics Engineer (MASc) | Systems & Firmware Architect**
 **Specializing in the intersection of high-performance C++, safety-critical robotics, and distributed IoT infrastructure.**
 
