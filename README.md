@@ -40,6 +40,8 @@ Currently, at **GlüxKind**, I lead the development of safety-critical control l
 * **Field Observability:** Authored a lightweight **"Error Relay" middleware** utilizing asynchronous BLE payloads and NVS persistence to ensure critical fault visibility even in low-connectivity (non-WiFi) environments.
 * **Autonomy Simulation & Validation:** Spearheaded the migration from ROS1 to **ROS2** and developed high-fidelity validation environments in **Nvidia Isaac Sim**. Leveraged simulation to verify corner-case safety behaviors (e.g., autonomous doorway entry) before physical deployment.
 
+![ROSA Stroller](assests/img/CruiseControlPAS.gif) ![Brake Assist](assests/img/BrakeAssist.gif)
+
 ---
 
 ## Research Focus: Swarm Robotics & Mapping
