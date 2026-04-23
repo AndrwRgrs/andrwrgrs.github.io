@@ -1,5 +1,5 @@
 # Robotics Engineer
-Passionate and dedicated Mechanical Engineer recently completed graduate school specializing in swarm robotics and collaborative multi-robot systems. Effective leader overseeing project success, mentoring, and training students. Excellent communicator with strong writing and presentation skills.
+I am a Mechatronics Engineer (MASc) specializing in the intersection of physical systems and safety-critical firmware. Currently, I lead the controls and system architecture for production-scale robotics at GlüxKind. I thrive on 'Creative Destruction'—identifying architectural bottlenecks and replacing them with scalable, high-performance C++ solutions. From designing impedance control laws to architecting AWS-managed OTA engines, I build the brains that make hardware move intelligently.
 ### Education
 - MASc Mechanical Engineering | University of Toronto | June 2021 - August 2023
     - Thesis: Occupancy Grid Mapping via Resource-Constrained Robotic Swarms: A Collaborative Exploration Strategy
