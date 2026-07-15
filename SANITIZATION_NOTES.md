@@ -27,11 +27,12 @@ The Ella page was also reviewed. It publicly describes high-level product positi
 
 ## Retained
 
-- Andrew's official GlüxKind job title, promotion within eight months, and a high-level description of helping take its smart-stroller platform from prototype-stage development to commercial production.
-- A clearly attributed summary of Rosa's public user-facing capabilities with a link to GlüxKind's website.
-- Three GlüxKind or public-technology demonstration videos explicitly approved for display, presented without implementation claims.
+- Andrew's official GlüxKind job title, promotion within eight months, and his user-confirmed role as the controls subject-matter expert directly responsible for bringing Rosa's powered assistance, automatic braking, and parking controls to production standard.
+- A focused list of those controls features with a link to GlüxKind's Rosa product page; unrelated product capabilities are not presented as Andrew's work.
+- Andrew's user-confirmed contributions across Rosa's broader firmware stack, including audio, Spotify integration, on-device logging, OTA updates, remote diagnostics, and production tooling.
+- Three GlüxKind or public-technology demonstration videos explicitly approved for display, with direct ownership claims limited to the controls features Andrew confirmed he brought to production.
 - Standalone technical skills and framework names that do not explain a confidential product implementation.
-- The approved Safran computer-vision inspection project description from Andrew's resume.
+- The Safran computer-vision inspection project plus the CATIA V5 mechanical-design, additive-manufacturing lab, and printer mechatronics work documented in Andrew's supplied 2023 resume.
 - A downloadable two-page resume sanitized to the same disclosure boundary.
 - Academic projects, research outcomes, publications, and their public supporting media.
 
