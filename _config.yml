@@ -1,7 +1,9 @@
-title: Andrew Rogers
-logo: assests/img/headshot_circle.jpg
-description: Resume & Portfolio
-show_downloads: false
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-- jekyll-remote-theme 
+title: Andrew M. Rogers
+description: Robotics software engineer focused on embedded systems, production delivery, and reliable real-world products.
+url: https://andrwrgrs.github.io
+lang: en-CA
+exclude:
+  - tmp
+  - README.md
+  - SANITIZATION_NOTES.md
+  - CASE_STUDY_QUESTIONNAIRE.md
